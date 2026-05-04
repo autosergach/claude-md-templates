@@ -3,6 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/autosergach/claude-md-templates?style=flat-square)](https://github.com/autosergach/claude-md-templates/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Templates](https://img.shields.io/badge/templates-6-blue?style=flat-square)](#templates)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=flat-square)](https://github.com/sponsors/autosergach)
 
 Production-ready `CLAUDE.md` templates for different project types. Copy a template, customize it, and give your AI coding assistant the context it needs to write better code.
 
